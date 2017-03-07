@@ -4,6 +4,7 @@ Contribution and suggestions are welcome! Simply fork this repository, make a ch
 - Please search previous suggestions before making a new one, as yours may be a duplicate.<br />
 - Please make an individual pull request for each suggestion.<br />
 - Use the following format: RESOURCE - [language(s)] - DESCRIPTION.<br />
+- Example: [mothur](https://www.mothur.org/) - [C++] - OTU-based analysis of 16S data.
 - Keep descriptions short and simple.<br />
 - End all descriptions with a full stop/period.<br />
 - Order projects alphabetically within each category.<br />
