@@ -18,5 +18,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
+[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) - [C?] - Basic Local Alignment Search Tool.
 
 [Pathoscope](https://sourceforge.net/p/pathoscope/wiki/Home/) - [python] - Species identification and strain attribution with unassembled sequencing data.
+
