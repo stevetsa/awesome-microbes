@@ -7,9 +7,23 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ## Microbiome (16S)
 
-[Qiime](http://qiime.org/) - [Python] - QIIME is designed to take users from raw sequencing data generated on the Illumina or other platforms through publication quality graphics and statistics. This includes demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations.
+[Explicet]( http://www.explicet.org) - [?] - a free to use, open source software package (GPLv3) available for Windows, Mac, and Linux that facilitates the exploration and visualization of taxonomy-based microbiome datasets (a.k.a. OTU tables).
+
+[LotuS]( http://psbweb05.psb.ugent.be/lotus) - [?] - aims at scientists and bioinformatician that want a simple pipeline that is streamlined to a core functionality of creating OTU and taxa abundance tables, at very fast speeds (e.g. processing an 8GB 16S miSeq run takes ~ 30 min on a laptop). LotuS does not include numerical analysis of samples, instead we designed LotuS output to be easily integrateable into existing workflows in e.g. statistical programming languages like R, QIIME/mothur or Matlab.
+
+[METAREP](https://github.com/jcvi/METAREP) - [?] - high-performance comparative metagenomics. It provides a suite of web based tools to help scientists to view, query, browse and compare metagenomic annotation data derived from ORFs called on metagenomics reads or assemblies.
+
+[Microbiome Util]( http://microbiomeutil.sourceforge.net) - [perl] - NASTiEr - Sequence Alignment; WigeoN - Chimera detection; TreeChopper - OTU binning; AMOSScmp - Sequence assembly.
 
 [mothur](https://www.mothur.org/) - [C++] - OTU-based analysis of 16S data.
+
+[Otupipe](http://www.drive5.com/usearch/manual/otupipe.html) - [?] - a bash script for OTU clustering based on USEARCH. This page is retained for historical interest because a script based on otupipe was used to create the published QIIME results for the Human Microbiome Project (HMP).
+
+[Qiime](http://qiime.org/) - [Python] - QIIME is designed to take users from raw sequencing data generated on the Illumina or other platforms through publication quality graphics and statistics. This includes demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations.
+
+[Qiita (cheetah)]( http://qiita.microbio.me/) - [?] - microbiome storage and analysis resource that can run on everything from your laptop to a supercomputer. It is built on top of the widely used QIIME package, and enables the exploration of -omics data.
+
+[UPARSE]( http://drive5.com/uparse/) - [?] - generates OTUs that are far superior to state-of-the-art methods including QIIME, mothur and AmpliconNoise on mock community tests. OTU representative sequences are more accurate predictions of biological sequences, and the number of OTUs is much close to the number of species.
 
 
 ## Metagenomics (WGS, Shot-gun sequencing)
@@ -18,7 +32,25 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
-[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) - [C?] - Basic Local Alignment Search Tool.
 
 [Pathoscope](https://sourceforge.net/p/pathoscope/wiki/Home/) - [python] - Species identification and strain attribution with unassembled sequencing data.
+
+[MetaHIT](http://www.metahit.eu/index.php?id=232) - [?] - DNA microarrays and high-throughput DNA re-sequencing technology for structural and functional analysis of microbial populations.
+
+## Visualization
+
+[Krona](https://github.com/marbl/Krona/wiki) - [python] - Interactive metagenomic visualization in a Web browser. 
+
+[MEGAN](http://ab.inf.uni-tuebingen.de/software/megan6/) - [?] - The most powerful interactive microbiome analysis tool
+Analyse metagenome, metatranscriptome and amplicon sequences from multiple sources.
+
+## Other Tools 
+
+[AmpliconNois]( https://code.google.com/p/ampliconnoise) - [?] - a collection of programs for the removal of noise from 454 sequenced PCR amplicons. It involves two steps the removal of noise from the sequencing itself and the removal of PCR point errors. This project also includes the Perseus algorithm for chimera removal.
+
+[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) - [C?] - Basic Local Alignment Search Tool.
+
+[gist, genepuddle, and gargle]( http://www.compsysbio.org/front/?id=73) - [?] - filter contaminants from RNA-seq sequences to make them suitable for alignment and analysis.
+
+
 
