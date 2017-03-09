@@ -52,5 +52,16 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 
 [gist, genepuddle, and gargle]( http://www.compsysbio.org/front/?id=73) - [?] - filter contaminants from RNA-seq sequences to make them suitable for alignment and analysis.
 
+## Web Portals
+
+
+## Journal Articles, etc.
+[BIOM Format](http://biom-format.org/) - is designed to be a general-use format for representing biological sample by observation contingency tables. BIOM is a recognized standard for the Earth Microbiome Project and is a Genomics Standards Consortium supported project.
+
+[Experimental and analytical tools for studying the human microbiome](http://www.nature.com/nrg/journal/v13/n1/full/nrg3129.html) - Nature Reviews Genetics 13, 47-58 (January 2012) | doi:10.1038/nrg3129.
+
+
+
+
 
 
