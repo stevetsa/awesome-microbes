@@ -30,6 +30,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [bioBakery-MetaPhlAn](https://bitbucket.org/biobakery/biobakery/wiki/Home) - [python] - a virtual environment platform that provides meta'omic analysis tools.
 
+[Mauve](http://darlinglab.org/mauve/mauve.html) - [?] - a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. Multiple genome alignments provide a basis for research into comparative genomics and the study of genome-wide evolutionary dynamics.
+
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
@@ -53,7 +55,15 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 [gist, genepuddle, and gargle]( http://www.compsysbio.org/front/?id=73) - [?] - filter contaminants from RNA-seq sequences to make them suitable for alignment and analysis.
 
 ## Web Portals
+[CosmosID](http://www.cosmosid.com/) - Exploring the Universe of Microbes.
 
+[MG-RAST](http://metagenomics.anl.gov/) - Metagenomics Analysis Server.
+
+[Nephele](https://nephele.niaid.nih.gov/#home) - Microbiome Analysis without Boundaries.
+
+[PATRIC](https://www.patricbrc.org/) - Bacterial database and analysis platform.
+
+[ViPR](https://www.viprbrc.org/brc/home.spg?decorator=vipr) - Viral pathogen database and analysis platform.
 
 ## Journal Articles, etc.
 [BIOM Format](http://biom-format.org/) - is designed to be a general-use format for representing biological sample by observation contingency tables. BIOM is a recognized standard for the Earth Microbiome Project and is a Genomics Standards Consortium supported project.
