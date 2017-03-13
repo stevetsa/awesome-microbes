@@ -57,7 +57,7 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 ## Web Portals
 [CosmosID](http://www.cosmosid.com/) - Exploring the Universe of Microbes.
 
-[Cancer Genomics Cloud](http://www.cancergenomicscloud.org/) - A cloud platform to analyze microbe data.  Currently available pipelines - BLAST-based microbe identification and characterization, mothur, Qimme, and MetaPhlAn.  Contact @stevetsa for more information.
+[Cancer Genomics Cloud](http://www.cancergenomicscloud.org/) - A cloud platform to analyze microbe data.  Currently available pipelines - BLAST-based microbe identification and characterization, mothur, Qimme, and MetaPhlAn with built-in visualization.  Contact @stevetsa for [more information](http://bit.ly/nciposter).  
 
 [MG-RAST](http://metagenomics.anl.gov/) - Metagenomics Analysis Server.
 
