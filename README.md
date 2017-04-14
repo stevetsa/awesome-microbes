@@ -54,8 +54,12 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 
 [gist, genepuddle, and gargle]( http://www.compsysbio.org/front/?id=73) - [?] - filter contaminants from RNA-seq sequences to make them suitable for alignment and analysis.
 
+[MLSTEZ](https://sourceforge.net/projects/mlstez/) - [python] - MLSTEZ is designed for next generation sequencing technology (PacBio CCS or Roche 454 platform) based MSLT methods. 
+
 ## Web Portals
 [CosmosID](http://www.cosmosid.com/) - Exploring the Universe of Microbes.
+
+[One Codex](https://www.onecodex.com) - One Codex is a data platform for applied microbial genomics.
 
 [Cancer Genomics Cloud](http://www.cancergenomicscloud.org/) - A cloud platform to analyze microbe data.  Currently available pipelines - BLAST-based microbe identification and characterization, mothur, Qimme, and MetaPhlAn with built-in visualization.  Contact @stevetsa for [more information](http://bit.ly/nciposter).  
 
