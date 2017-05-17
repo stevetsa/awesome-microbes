@@ -32,6 +32,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Mauve](http://darlinglab.org/mauve/mauve.html) - [?] - a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. Multiple genome alignments provide a basis for research into comparative genomics and the study of genome-wide evolutionary dynamics.
 
+[MetaMeta](https://github.com/pirovc/metameta) - [python] - Integrates metagenome analysis tools to improve taxonomic profiling. [doi](https://doi.org/10.1101/138578)
+
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
