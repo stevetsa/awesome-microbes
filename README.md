@@ -34,6 +34,10 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [curatedMetagenomicData](bioconductor.org/packages/curatedMetagenomicData) - [R] - a curated database of processed human microbiome data from metagenomics, from the Human Microbiome Project and numerous other published datasets.  Provides both taxonomic profiles and inferred metabolic function.  Distributed via Bioconductor's [ExperimentHub](https://bioconductor.org/packages/ExperimentHub/), command-line interface also available.
 
+[MetaMeta](https://github.com/pirovc/metameta) - [python] - Integrates metagenome analysis tools to improve taxonomic profiling. [doi](https://doi.org/10.1101/138578)
+
+
+
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
 [Pathoscope](https://sourceforge.net/p/pathoscope/wiki/Home/) - [python] - Species identification and strain attribution with unassembled sequencing data.
