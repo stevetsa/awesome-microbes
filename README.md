@@ -1,9 +1,8 @@
 # awesome-microbes
-List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization.  [Contributions welcome...](https://github.com/stevetsa/awesome-microbes/blob/master/CONTRIBUTE.md)
-<br /> 
-Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
-<br />
 
+List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization.  [Contributions welcome...](https://github.com/stevetsa/awesome-microbes/blob/master/CONTRIBUTE.md)
+
+Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
 
 ## Microbiome (16S)
 
@@ -81,8 +80,4 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 
 [Experimental and analytical tools for studying the human microbiome](http://www.nature.com/nrg/journal/v13/n1/full/nrg3129.html) - Nature Reviews Genetics 13, 47-58 (January 2012) | doi:10.1038/nrg3129.
 
-
-
-
-
-
+[Metagenomics - Tools and other Points of Interest](https://docs.google.com/document/d/1qLczhk4MAKjkOtz-PnXhmgGEWnWQJHLf0Mjd1B9U2RU) - list compiled by [@bioinformer](https://twitter.com/bioinformer)
