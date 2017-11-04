@@ -24,6 +24,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [UPARSE]( http://drive5.com/uparse/) - [?] - generates OTUs that are far superior to state-of-the-art methods including QIIME, mothur and AmpliconNoise on mock community tests. OTU representative sequences are more accurate predictions of biological sequences, and the number of OTUs is much close to the number of species.
 
+[USEARCH](https://www.drive5.com/usearch/) - [?] - a high-throughput sequencing tool that offers read processing, clustering (ESTs, OTUs, +more), and diversity and taxonomy analysis algorithms in a single package. USEARCH's database search feature is 10-100 times faster than BLAST, and the documentation is thorough and user-friendly. The 32-bit version is free, including for commercial use. A paid 64-bit version is also available.
+
 
 ## Metagenomics (WGS, Shot-gun sequencing)
 
