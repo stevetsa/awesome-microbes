@@ -37,7 +37,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [MetaMeta](https://github.com/pirovc/metameta) - [python] - Integrates metagenome analysis tools to improve taxonomic profiling. [doi](https://doi.org/10.1101/138578)
 
-
+[SMART Metagenomics Classifer](https://bitbucket.org/ayl/smart) - [C++] - Metagenomics aligner pipeline for ingesting WGS FASTQ files and uses highly parallel k-mer search strategy to search against all of NCBI GenBank. [Link to manuscript](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1159-6)
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
