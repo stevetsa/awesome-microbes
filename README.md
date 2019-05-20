@@ -18,6 +18,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Otupipe](http://www.drive5.com/usearch/manual/otupipe.html) - [?] - a bash script for OTU clustering based on USEARCH. This page is retained for historical interest because a script based on otupipe was used to create the published QIIME results for the Human Microbiome Project (HMP).
 
+[Puma](https://github.com/puma/puma) - [Ruby] - Program for Unifying Microbiome Analyses (PUMA) - a novel tool for comprehensive and efficient streamlining of 16S rRNA microbiome taxonomy data for analysis and visualization (CLI/GUI).
+  
 [Qiime](http://qiime.org/) - [Python] - QIIME is designed to take users from raw sequencing data generated on the Illumina or other platforms through publication quality graphics and statistics. This includes demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations.
 
 [Qiita (cheetah)]( http://qiita.microbio.me/) - [?] - microbiome storage and analysis resource that can run on everything from your laptop to a supercomputer. It is built on top of the widely used QIIME package, and enables the exploration of -omics data.
@@ -41,6 +43,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
+[GenomeGraphR](https://fda-riskmodels.foodrisk.org/genomegraphr/) - [R] - A user-friendly open-source web application for foodborne pathogen Whole Genome Sequencing data integration, analysis, and visualization.  
+  
 [Pathoscope](https://sourceforge.net/p/pathoscope/wiki/Home/) - [python] - Species identification and strain attribution with unassembled sequencing data.
 
 [MetaHIT](http://www.metahit.eu/index.php?id=232) - [?] - DNA microarrays and high-throughput DNA re-sequencing technology for structural and functional analysis of microbial populations.
