@@ -56,11 +56,17 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 
 [AmpliconNois]( https://code.google.com/p/ampliconnoise) - [?] - a collection of programs for the removal of noise from 454 sequenced PCR amplicons. It involves two steps the removal of noise from the sequencing itself and the removal of PCR point errors. This project also includes the Perseus algorithm for chimera removal.
 
-[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) - [C?] - Basic Local Alignment Search Tool.
+[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) - [C/C++] - Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches. BLAST can be used to infer functional and evolutionary relationships between sequences as well as help identify members of gene families. Introduced in 2009, BLAST+ is an improved version of BLAST command line applications. 
+
+[BLAST+ Docker](https://github.com/ncbi/blast_plus_docs) - [NA] - Docker image for BLAST.
 
 [gist, genepuddle, and gargle]( http://www.compsysbio.org/front/?id=73) - [?] - filter contaminants from RNA-seq sequences to make them suitable for alignment and analysis.
 
 [MLSTEZ](https://sourceforge.net/projects/mlstez/) - [python] - MLSTEZ is designed for next generation sequencing technology (PacBio CCS or Roche 454 platform) based MSLT methods. 
+
+## Workflows
+
+[SAMSA2](https://github.com/transcript/samsa2) - [NA] - Simple Analysis of Metatranscriptomes by Sequence Annotation.  
 
 ## Web Portals
 [CosmosID](http://www.cosmosid.com/) - Exploring the Universe of Microbes.
