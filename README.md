@@ -49,6 +49,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [MetaHIT](http://www.metahit.eu/index.php?id=232) - [?] - DNA microarrays and high-throughput DNA re-sequencing technology for structural and functional analysis of microbial populations.
 
+[POPSICLE](https://popsicle-admixture.sourceforge.io/) - [R] - a software suite to determine population structure and Ancestral Determinants of Phenotypes using Whole Genome Sequencing data.  
+  
 ## Visualization
 
 [Krona](https://github.com/marbl/Krona/wiki) - [python] - Interactive metagenomic visualization in a Web browser. 
