@@ -22,9 +22,11 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Virus Pathogen Database and Analysis Resource (ViPR)](https://www.viprbrc.org/brc/home.spg?decorator=corona) - Nucleotide sequences, preliminary [comparative genomics](https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCov-ViPR-report_24JAN2020.pdf), tools for sequence alignment, phylogenetic, SNP, BLAST, annotation and analysis.
 
+[Protein Data Bank](http://www.rcsb.org/pdb/results/results.do?tabtoshow=Current&qrid=66A96A62) - Pathogen protein structures.  
+
 ### Visualization
 
-[JHU Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - (Link not working currently) - Near-real-time mapping of the pathogen.
+[JHU Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Near-real-time mapping of the pathogen.
 
 [Nextstrain](https://nextstrain.org/ncov) - Real-time tracking of pathogen evolution.
 
@@ -34,8 +36,6 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 ### [Pathogen Basic Reproduction Number](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
 
 Julien Riou, Christian L. Althaus bioRxiv.  Pattern of early human-to-human transmission of Wuhan 2019-nCoV. 2020.01.23.917351; [doi](https://doi.org/10.1101/2020.01.23.917351)
-
-
 
 
 ### Twitter hashtags
