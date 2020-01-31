@@ -33,7 +33,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ### Publication
 
-### [Pathogen Basic Reproduction Number](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
+####[Pathogen Basic Reproduction Number](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
 
 Julien Riou, Christian L. Althaus bioRxiv.  Pattern of early human-to-human transmission of Wuhan 2019-nCoV. 2020.01.23.917351; [doi](https://doi.org/10.1101/2020.01.23.917351)
 
