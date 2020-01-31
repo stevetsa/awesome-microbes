@@ -14,7 +14,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [US National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov/news-events/niaid-officials-discuss-novel-coronavirus-recently-emerged-china) - "Current studies at NIAID-funded institutions and by scientists in NIAID laboratories include efforts that build on previous work on SARS- and MERS-CoVs. For example, researchers are developing diagnostic tests to rapidly detect 2019-nCoV infection and exploring the use of broad-spectrum anti-viral drugs to treat 2019-nCoVs, the authors note. NIAID researchers also are adapting approaches used with investigational SARS and MERS vaccines to jumpstart candidate vaccine development for 2019-nCoV. Advances in technology since the SARS outbreak have greatly compressed the vaccine development timeline, the authors write. They indicate that a candidate vaccine for 2019-nCoV could be ready for early-stage human testing in as little as three months as compared to 20 months for early-stage development of an investigational SARS vaccine."
 
-[US FDA](https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/novel-coronavirus-2019-ncov) - "FDA is working with U.S. Government partners, including the U.S. Centers for Disease Control and Prevention (CDC), and international partners to closely monitor an outbreak caused by a novel (new) coronavirus first identified in Wuhan City, Hubei Province, China."
+[US Food and Drug Administration](https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/novel-coronavirus-2019-ncov) - "FDA is working with U.S. Government partners, including the U.S. Centers for Disease Control and Prevention (CDC), and international partners to closely monitor an outbreak caused by a novel (new) coronavirus first identified in Wuhan City, Hubei Province, China."
 
 ### Data Repositories
 
@@ -33,7 +33,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ### Publication
 
-####[Pathogen Basic Reproduction Number](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
+#### [Pathogen Basic Reproduction Number](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
 
 Julien Riou, Christian L. Althaus bioRxiv.  Pattern of early human-to-human transmission of Wuhan 2019-nCoV. 2020.01.23.917351; [doi](https://doi.org/10.1101/2020.01.23.917351)
 
