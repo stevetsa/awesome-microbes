@@ -4,6 +4,44 @@ List of software packages (and the people developing these methods) for microbio
 
 Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
 
+## 2019 Novel Coronavirus Resources 
+
+### International Government Organization
+
+[US Center for Disease Control](https://www.cdc.gov/coronavirus/index.html) - Situation Summary - "The Centers for Disease Control and Prevention (CDC) is closely monitoring an outbreak of respiratory illness caused by a novel (new) coronavirus first identified in Wuhan, Hubei Province, China. Chinese authorities identified the new coronavirus, which has resulted in thousands of confirmed cases in China, including cases outside Wuhan City. Additional cases have been identified in a growing number of other international locations, including the United States. There are ongoing investigations to learn more."
+
+[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) - "This page is a one-stop shop for all information and guidance from WHO regarding the current outbreak of novel coronavirus (2019-nCoV) that was first reported from Wuhan, China, on 31 December 2019. Please visit this page for daily updates. WHO is working closely with global experts, governments and partners to rapidly expand scientific knowledge on this new virus, to track the spread and virulence of the virus, and to provide advice to countries and individuals on measures to protect health and prevent the spread of this outbreak." [Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
+
+[US National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov/news-events/niaid-officials-discuss-novel-coronavirus-recently-emerged-china) - "Current studies at NIAID-funded institutions and by scientists in NIAID laboratories include efforts that build on previous work on SARS- and MERS-CoVs. For example, researchers are developing diagnostic tests to rapidly detect 2019-nCoV infection and exploring the use of broad-spectrum anti-viral drugs to treat 2019-nCoVs, the authors note. NIAID researchers also are adapting approaches used with investigational SARS and MERS vaccines to jumpstart candidate vaccine development for 2019-nCoV. Advances in technology since the SARS outbreak have greatly compressed the vaccine development timeline, the authors write. They indicate that a candidate vaccine for 2019-nCoV could be ready for early-stage human testing in as little as three months as compared to 20 months for early-stage development of an investigational SARS vaccine."
+
+[US FDA](https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/novel-coronavirus-2019-ncov) - "FDA is working with U.S. Government partners, including the U.S. Centers for Disease Control and Prevention (CDC), and international partners to closely monitor an outbreak caused by a novel (new) coronavirus first identified in Wuhan City, Hubei Province, China."
+
+### Data Repositories
+
+[NCBI Genbank](https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/) - Entrez Nucletide/RefSeq sequences, [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus) against a custom Betacoronavirus database, the new NCBI Virus resource, SRA sequences, reference genome, and [PubMed articles](https://pubmed.ncbi.nlm.nih.gov/?term=2019-Ncov).
+
+[Virus Pathogen Database and Analysis Resource (ViPR)](https://www.viprbrc.org/brc/home.spg?decorator=corona) - Nucleotide sequences, preliminary [comparative genomics](https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCov-ViPR-report_24JAN2020.pdf), tools for sequence alignment, phylogenetic, SNP, BLAST, annotation and analysis.
+
+### Visualization
+
+[JHU Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - (Link not working currently) - Near-real-time mapping of the pathogen.
+
+[Nextstrain](https://nextstrain.org/ncov) - Real-time tracking of pathogen evolution.
+
+
+### Publication
+
+### [Pathogen Basic Reproduction Number](https://web.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf)
+
+Julien Riou, Christian L. Althaus bioRxiv.  Pattern of early human-to-human transmission of Wuhan 2019-nCoV. 2020.01.23.917351; [doi](https://doi.org/10.1101/2020.01.23.917351)
+
+
+
+
+### Twitter hashtags
+#2019ncov #ncov2019 #ncov
+
+
 ## Long-read Sequencing Tools
 
 [Canu](https://github.com/marbl/canu) - [Perl/C] - scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation.  
