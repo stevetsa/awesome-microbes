@@ -30,7 +30,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ### Visualization
 
-[JHU Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Near-real-time mapping of the pathogen.
+[JHU CSSE Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Near-real-time mapping of the pathogen.
 
 [Nextstrain](https://nextstrain.org/ncov) - Real-time tracking of pathogen evolution. [Chinese Version/中文版](https://nextstrain.org/ncov/zh) 
 
