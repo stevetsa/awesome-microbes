@@ -56,7 +56,12 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 
 ### Twitter hashtags
-#2019ncov #ncov2019 #ncov
+#[COVID19](https://twitter.com/search?q=%23COVID19)
+#[COVID2019](https://twitter.com/search?q=%23COVID2019)
+#[COVID-19](https://twitter.com/search?q=%23COVID-19)
+#[2019ncov](https://twitter.com/search?q=%232019ncov) 
+#[ncov2019](https://twitter.com/search?q=%23ncov2019) 
+#[ncov](https://twitter.com/search?q=%23ncov) 
 
 
 ## Long-read Sequencing Tools
