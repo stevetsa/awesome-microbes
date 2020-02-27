@@ -56,6 +56,11 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Wiley](https://secure.wiley.com/Coronavirus2020) - In response to the outbreak in China, we’re providing free access to all Wiley published articles related to #coronavirus.  
 
+### Clinical Trials for 2019 Novel Coronavirus
+[ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=Coronavirus) is a database of privately and publicly funded clinical studies conducted around the world.  
+
+[National Institutes of Health News](https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins) - NIH clinical trial of remdesivir to treat COVID-19 begins study enrolling hospitalized adults with COVID-19 in Nebraska.  
+
 
 ### Twitter hashtags
 #[COVID19](https://twitter.com/search?q=%23COVID19)
