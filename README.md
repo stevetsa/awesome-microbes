@@ -4,7 +4,7 @@ List of resources, including software packages (and the people developing these 
 
 Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell/blob/master/README.md)
 
-## 2019 Novel Coronavirus Resources 
+## Coronavirus Disease (COVID-19) Outbreak Resources 
 
 ### International Government Organization
 
