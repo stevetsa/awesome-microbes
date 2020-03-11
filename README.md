@@ -32,6 +32,12 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Virus Pathogen Database and Analysis Resource (ViPR)](https://www.viprbrc.org/brc/home.spg?decorator=corona_ncov) - Nucleotide sequences, preliminary [comparative genomics](https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCov-ViPR-report_24JAN2020.pdf), tools for sequence alignment, phylogenetic, SNP, BLAST, annotation and analysis.  
 
+### Testing
+[CDC Guideline on Testing](https://www.cdc.gov/coronavirus/2019-ncov/lab/testing-laboratories.html)
+CDC provides the test kits for public health laboratories (PHLs) to perform real-time RT-polymerase chain reaction (rRT-PCR) detection of the SARS-CoV-2 virus (the virus that causes COVID-19) in respiratory specimens. These test kits are available through the [International Reagent Resource (IRR)](https://www.internationalreagentresource.org/About/IRR.aspx).  
+
+Currently, genomic RNA material can be used for validation purposes at biosafety level 2 laboratories (BSL-2). Genomic RNA material is available through [BEI Resources.](https://www.beiresources.org/Home.aspx) BEI Resources was established by NIAID/NIH to provide reagents, tools and information for studying Category A, B, and C priority #pathogens and other microbes.  
+
 ### Visualization
 
 [JHU CSSE Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Near-real-time mapping of the pathogen.
@@ -68,9 +74,11 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 #[COVID19](https://twitter.com/search?q=%23COVID19)
 #[COVID2019](https://twitter.com/search?q=%23COVID2019)
 #[COVID-19](https://twitter.com/search?q=%23COVID-19)
+#[FlattenTheCurve](https://twitter.com/hashtag/FlattenTheCurve)
 #[2019ncov](https://twitter.com/search?q=%232019ncov) 
 #[ncov2019](https://twitter.com/search?q=%23ncov2019) 
 #[ncov](https://twitter.com/search?q=%23ncov) 
+
 
 
 ## Long-read Sequencing Tools
