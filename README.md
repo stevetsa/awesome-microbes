@@ -39,8 +39,11 @@ CDC provides the test kits for public health laboratories (PHLs) to perform real
 Currently, genomic RNA material can be used for validation purposes at biosafety level 2 laboratories (BSL-2). Genomic RNA material is available through [BEI Resources.](https://www.beiresources.org/Home.aspx) BEI Resources was established by NIAID/NIH to provide reagents, tools and information for studying Category A, B, and C priority #pathogens and other microbes.  
 
 ### Visualization
+[Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) - At the time of writing, the coronavirus disease of 2019 remains a global health crisis of grave and uncertain magnitude. To the non-expert (such as myself), contextualizing the numbers, forecasts and epidemiological parameters described in the media and literature can be challenging. I created this calculator as an attempt to address this gap in understanding.
 
 [JHU CSSE Near-real-time mapping of 2019-nCoV](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Near-real-time mapping of the pathogen.
+
+[How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) - New York Times, accessed March 22, 2020.  
 
 [Nextstrain](https://nextstrain.org/ncov) - Real-time tracking of pathogen evolution. [Chinese Version/中文版](https://nextstrain.org/ncov/zh) 
 
@@ -69,7 +72,6 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 
 [National Institutes of Health News](https://www.nih.gov/news-events/news-releases/nih-clinical-trial-remdesivir-treat-covid-19-begins) - NIH clinical trial of remdesivir to treat COVID-19 begins study enrolling hospitalized adults with COVID-19 in Nebraska.  
 
-
 ### Twitter hashtags
 #[COVID19](https://twitter.com/search?q=%23COVID19)
 #[COVID2019](https://twitter.com/search?q=%23COVID2019)
@@ -78,6 +80,15 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 #[2019ncov](https://twitter.com/search?q=%232019ncov) 
 #[ncov2019](https://twitter.com/search?q=%23ncov2019) 
 #[ncov](https://twitter.com/search?q=%23ncov) 
+
+
+### Other resources
+[Awesome-cornonavirus](https://github.com/soroushchehresa/awesome-coronavirus).  
+
+[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) - In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses... We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions.  
+
+
+
 
 
 
