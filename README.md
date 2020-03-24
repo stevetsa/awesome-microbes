@@ -87,9 +87,9 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 ### Other resources
 [Awesome-cornonavirus](https://github.com/soroushchehresa/awesome-coronavirus).  
 
-[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) - In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses... We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions.  
+[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) - In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses... We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions.   
 
-
+[Call for expression of interest for contribution to the Linked Open Data for Global Disaster Risk Research](https://codata.org/call-for-expression-of-interest-for-contribution-to-the-linked-open-data-for-global-disaster-risk-research/) - The global pandemic is a powerful reminder of the necessity of the international community’s intensified and sustained commitment to emergency preparedness.  We are thus inviting experts in disaster risk reduction data and policy issues to collaborate on preparing these documents.  
 
 
 
