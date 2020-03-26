@@ -34,6 +34,32 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Virus Pathogen Database and Analysis Resource (ViPR)](https://www.viprbrc.org/brc/home.spg?decorator=corona_ncov) - Nucleotide sequences, preliminary [comparative genomics](https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCov-ViPR-report_24JAN2020.pdf), tools for sequence alignment, phylogenetic, SNP, BLAST, annotation and analysis.  
 
+### Global community efforts to combat COVID-19
+[Awesome-cornonavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Another community curated resources of COVID-19 related resources.     
+
+[Call for expression of interest for contribution to the Linked Open Data for Global Disaster Risk Research](https://codata.org/call-for-expression-of-interest-for-contribution-to-the-linked-open-data-for-global-disaster-risk-research/) - The global pandemic is a powerful reminder of the necessity of the international community’s intensified and sustained commitment to emergency preparedness.  We are thus inviting experts in disaster risk reduction data and policy issues to collaborate on preparing these documents.   
+
+[CodeVsCOVID-19](https://www.codevscovid19.org/) - The world’s brightest minds collaborate in a 72h non-profit online hackathon to fight the COVID-19 crisis. ​ This is an initiative under the patronage of the Swiss Federal Department of Economic Affairs, Education and Research (EAER) and the Federal Department of Home Affairs (FDHA). ​ The first edition starts March 27, 5pm CET. You need to sign up until Friday, March 27, 4pm latest.  
+
+[COVID-19 Global Hackathons](https://covid-global-hackathon.devpost.com/) - The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic. We’re encouraging YOU - innovators around the world - to #BuildforCOVID19 using technologies of your choice across a range of suggested themes and challenge areas - some of which have been sourced through health partners including the World Health Organization and scientists at the Chan Zuckerberg Biohub. The hackathon welcomes locally and globally focused solutions, and is open to all developers - with support from technology companies and platforms including Facebook, Giphy, Microsoft, Pinterest, Slack, TikTok, Twitter and WeChat, who will be sharing resources to support participants throughout the submission period.  
+
+[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) - In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses... We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions.   
+
+[Hack the Crisis Norway](https://www.hackthecrisisnorway.com/) - March 27-29, 2020 - Hack the Crisis Norway is an online hackathon set up to meet the challenges our society is facing as a result of the coronavirus. The event is organised by volunteers from the tech and startup community in Norway.  
+
+[Hack COVID-19](https://www.hackcovid19.com/) - Join us for a global online hackathon hosted by Starfish. It’s imperative that we create solutions to address Coronavirus challenges and keep people as safe and healthy as possible! We’re looking to raise $20K for prizes, production, and organizational costs for Hack Covid-19. In addition, we’re looking for subject matter experts, donations of time, and appreciate support from all verticals.  
+
+[Hack Quanrantine](https://hackquarantine.com/) - March 23-April 12, 2020 - Major League Hacking - A fully-online, people-focused hackathon bringing people together to use their skills to help combat the issues the world is facing with the COVID-19 pandemic. By working with medical professionals and industry, we’ll provide the knowledge and tools to empower hackers to work towards around improving health, remote working and helping vulnerable populations.
+
+[Harmony Hacks](https://harmonyhacks.org) - HarmonyHacks is a high school hackathon—a 12-hour programming event where students work in teams to make hardware and software projects. This year, we aim to have around 150 attendees with a 1:1 gender ratio.
+
+[MachineHack Covid-19](https://www.machinehack.com/course/covid-19-forecasting-the-corona-outbreak/) - In the coming weeks and months, we at MachineHack (an Analytics India Magazine initiative) along with our community members will ominously examine how the coronavirus could affect different nations. Thereby, we invite MachineHackers to predict potential COVID-19 cases across all the globe on an everyday basis. The objective of the hackathon is to gauge COVID-19 on three metrics- confirmed cases, recovered cases and death events for the next day using historical data as on a given date.
+
+[UGA COVID-19 Virtual Hackathon](https://publichealth.uga.edu/event/covid-19-virtual-hackathon/) - March 25, 2020 - The hackathon’s aim is to produce meaningful public health education and preparedness information for Georgia. The deliverables could be an infographic, a video for social media, a brief one-pager, an op-ed, a radio ad…get creative! CPH faculty and staff will be on hand to support you efforts. You can sign up to work as individuals or in teams up to five people. Multidisciplinary teams are highly encouraged. All degree levels are welcome.
+
+[Zindi/AI4D- Predict the Global Spread of COVID-19](https://zindi.africa/competitions/predict-the-global-spread-of-covid-19) - Accurately modelling the spread of these viral diseases is critical for policymakers and health workers to take appropriate actions to contain and mitigate the impact of these disease. This challenge asks data scientists on Zindi to accurately predict the spread of COVID-19 around the world over the next few months. Solutions will be evaluated against future data. The effects of COVID-19 have yet to emerge as the situation is evolving rapidly. With this challenge we hope to contribute to the global body of knowledge which will help stem the impact of pandemics such as this one as well as those in the future. This challenge is sponsored by the Artificial Intelligence for Development Africa(AI4D-Africa) Network.    
+
+
 ### Testing
 [CDC Guideline on Testing](https://www.cdc.gov/coronavirus/2019-ncov/lab/testing-laboratories.html)
 CDC provides the test kits for public health laboratories (PHLs) to perform real-time RT-polymerase chain reaction (rRT-PCR) detection of the SARS-CoV-2 virus (the virus that causes COVID-19) in respiratory specimens. These test kits are available through the [International Reagent Resource (IRR)](https://www.internationalreagentresource.org/About/IRR.aspx).  
@@ -82,15 +108,6 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 #[2019ncov](https://twitter.com/search?q=%232019ncov) 
 #[ncov2019](https://twitter.com/search?q=%23ncov2019) 
 #[ncov](https://twitter.com/search?q=%23ncov) 
-
-
-### Other resources
-[Awesome-cornonavirus](https://github.com/soroushchehresa/awesome-coronavirus).  
-
-[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) - In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses... We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions.   
-
-[Call for expression of interest for contribution to the Linked Open Data for Global Disaster Risk Research](https://codata.org/call-for-expression-of-interest-for-contribution-to-the-linked-open-data-for-global-disaster-risk-research/) - The global pandemic is a powerful reminder of the necessity of the international community’s intensified and sustained commitment to emergency preparedness.  We are thus inviting experts in disaster risk reduction data and policy issues to collaborate on preparing these documents.  
-
 
 
 
