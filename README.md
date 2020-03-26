@@ -47,11 +47,15 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Folding@Home](https://github.com/FoldingAtHome/coronavirus) - This repository will contain all input files and generated datasets for the Folding@home efforts to better understand how the SARS-CoV-2 virus that causes COVID-19 can be targeted with small molecule and antibody therapeutics. This repository will be continuously updated to share results that are being generated on Folding@home. You can follow along with news updates on the Folding@home blog and Folding@home twitter feed. More information on this project can be found on this Folding@home news post.   
 
+[FoldIt - COVID Spike protein](hhttps://fold.it/portal/node/2008963) - You don't have to be a scientist to do science! Download and play Foldit and you can help researchers discover new antiviral drugs that might stop coronavirus! The most promising solutions will be manufactured and tested at the University of Washington Institute for Protein Design in Seattle. Foldit is run by academic research scientists.   
+
 [Hack the Crisis Norway](https://www.hackthecrisisnorway.com/) - March 27-29, 2020 - Hack the Crisis Norway is an online hackathon set up to meet the challenges our society is facing as a result of the coronavirus. The event is organised by volunteers from the tech and startup community in Norway.  
 
 [Hack COVID-19](https://www.hackcovid19.com/) - Join us for a global online hackathon hosted by Starfish. It’s imperative that we create solutions to address Coronavirus challenges and keep people as safe and healthy as possible! We’re looking to raise $20K for prizes, production, and organizational costs for Hack Covid-19. In addition, we’re looking for subject matter experts, donations of time, and appreciate support from all verticals.  
 
-[Hack Quanrantine](https://hackquarantine.com/) - March 23-April 12, 2020 - Major League Hacking - A fully-online, people-focused hackathon bringing people together to use their skills to help combat the issues the world is facing with the COVID-19 pandemic. By working with medical professionals and industry, we’ll provide the knowledge and tools to empower hackers to work towards around improving health, remote working and helping vulnerable populations.
+[Hack Quanrantine](https://hackquarantine.com/) - March 23-April 12, 2020 - Major League Hacking - A fully-online, people-focused hackathon bringing people together to use their skills to help combat the issues the world is facing with the COVID-19 pandemic. By working with medical professionals and industry, we’ll provide the knowledge and tools to empower hackers to work towards around improving health, remote working and helping vulnerable populations.  
+
+[Hack for Wuhan](https://www.runtheworld.international/) - March 5-7, 2020 - Hack for Wuhan, by Wuhan2020 unites developers, designers, builders, and creators all over the world to use technology to come up with solutions to help fight the current outbreak of coronavirus disease (COVID-19).   
 
 [Harmony Hacks](https://harmonyhacks.org) - HarmonyHacks is a high school hackathon—a 12-hour programming event where students work in teams to make hardware and software projects. This year, we aim to have around 150 attendees with a 1:1 gender ratio.
 
