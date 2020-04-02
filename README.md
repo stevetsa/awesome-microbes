@@ -33,6 +33,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 - Validation statistics for these and the original structural models.
 - Diagnostic data for the quality of the experimental data.  
 
+[The COVID Tracking Project](https://covidtracking.com/) - The COVID Tracking Project collects and publishes the most complete testing data available for US states and territories. This project was launched out of The Atlantic to fill a major gap in publicly available COVID-19 testing data. Johns Hopkins University maintains a comprehensive case count, but no governmental or institutional source is publishing complete testing data—including not just identified cases, but how many people have been tested, and where. Without this data, we can't make informed decisions or accurately communicate risks.  
+
 [Global Initiative on Sharing All Influenza Data (GISAID)](https://www.gisaid.org/) - The GISAID Initiative, also known as a Global Initiative on Sharing All Influenza Data, involves public-private-partnerships between the Initiative's administrative arm Freunde of GISAID e.V., a registered non-profit association, and governments of the Federal Republic of Germany, the official host of the GISAID platform and EpiFlu™ database, Singapore and the United States of America, with support from private and corporate philanthropy.  
 
 [NCBI Genbank](https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/) - Entrez Nucletide/RefSeq sequences, [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus) against a custom Betacoronavirus database, the new NCBI Virus resource, SRA sequences, reference genome, and [PubMed articles](https://pubmed.ncbi.nlm.nih.gov/?term=2019-Ncov).  
