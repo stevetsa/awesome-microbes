@@ -93,6 +93,8 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 
 [Nextstrain](https://nextstrain.org/ncov) - Real-time tracking of pathogen evolution. [Chinese Version/中文版](https://nextstrain.org/ncov/zh) 
 
+[Tableau COVID-19 Visualizations](https://public.tableau.com/en-us/s/covid-19-viz-gallery) - Stay up to date with the most impactful Coronavirus visualizations from the Tableau Community. 
+
 ### Publications
 
 [American Society for Microbiology](https://www.asm.org/Press-Releases/2020/nCoV2019-Resources) - ASM is providing free access to more than 100 research articles published over the last year in ASM’s 18 scholarly journals to support research efforts and communications about the novel coronavirus (2019-nCoV).    
