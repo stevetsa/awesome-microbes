@@ -175,9 +175,11 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 [USEARCH](https://www.drive5.com/usearch/) - [?] - a high-throughput sequencing tool that offers read processing, clustering (ESTs, OTUs, +more), and diversity and taxonomy analysis algorithms in a single package. USEARCH's database search feature is 10-100 times faster than BLAST, and the documentation is thorough and user-friendly. The 32-bit version is free, including for commercial use. A paid 64-bit version is also available.
 
 
-## Metagenomics (WGS, Shot-gun sequencing)
+## Metagenomics (WGS, Shotgun sequencing)
 
 [bioBakery-MetaPhlAn](https://bitbucket.org/biobakery/biobakery/wiki/Home) - [python] - a virtual environment platform that provides meta'omic analysis tools.
+
+[Krakenuniq](https://github.com/fbreitwieser/krakenuniq) - [C++] - fast and accurate kmer based metagenomic binning tool. Requires considerable RAM.
 
 [Mauve](http://darlinglab.org/mauve/mauve.html) - [?] - a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. Multiple genome alignments provide a basis for research into comparative genomics and the study of genome-wide evolutionary dynamics.
 
@@ -188,6 +190,8 @@ Currently, genomic RNA material can be used for validation purposes at biosafety
 [MetaMeta](https://github.com/pirovc/metameta) - [python] - Integrates metagenome analysis tools to improve taxonomic profiling. [doi](https://doi.org/10.1101/138578)
 
 [SMART Metagenomics Classifer](https://bitbucket.org/ayl/smart) - [C++] - Metagenomics aligner pipeline for ingesting WGS FASTQ files and uses highly parallel k-mer search strategy to search against all of NCBI GenBank. [Link to manuscript](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1159-6)
+
+[Wochenende](https://github.com/MHH-RCUG/Wochenende) - [Python3, BASH] Metagenomics alignment pipeline for short and long read metagenomic analysis. SLURM Enabled for cluster usage.
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
