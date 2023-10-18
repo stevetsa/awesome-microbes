@@ -56,8 +56,6 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [Mauve](http://darlinglab.org/mauve/mauve.html) - [?] - a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. Multiple genome alignments provide a basis for research into comparative genomics and the study of genome-wide evolutionary dynamics.
 
-[curatedMetagenomicData](https://waldronlab.github.io/curatedMetagenomicData/) - [R] - a curated database of processed human microbiome data from metagenomics, from the Human Microbiome Project and numerous other published datasets.  Provides both taxonomic profiles and inferred metabolic function.  Distributed via Bioconductor's [ExperimentHub](https://bioconductor.org/packages/ExperimentHub/), command-line interface also available.
-
 [MetaKallisto](https://github.com/pachterlab/metakallisto) - [Python] - Pseudoalignment for metagenomic read assignment.  
 
 [MetaMeta](https://github.com/pirovc/metameta) - [python] - Integrates metagenome analysis tools to improve taxonomic profiling. [doi](https://doi.org/10.1101/138578)
@@ -65,6 +63,20 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 [SMART Metagenomics Classifer](https://bitbucket.org/ayl/smart) - [C++] - Metagenomics aligner pipeline for ingesting WGS FASTQ files and uses highly parallel k-mer search strategy to search against all of NCBI GenBank. [Link to manuscript](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1159-6)
 
 [Wochenende](https://github.com/MHH-RCUG/Wochenende) - [Python3, BASH] Metagenomics alignment pipeline for short and long read metagenomic analysis. SLURM Enabled for cluster usage.
+
+## R/Bioconductor tools
+
+[curatedMetagenomicData](https://waldronlab.github.io/curatedMetagenomicData/) - a curated database of standardized metadata and human microbiome data from shotgun metagenomics, from the Human Microbiome Project and numerous published datasets. Provides metabolic functional potential ([HUMAnN](http://huttenhower.sph.harvard.edu/humann/)) and taxonomic profiles ([MetaPhlAn](http://segatalab.cibio.unitn.it/tools/metaphlan/)), including linked phylogenetic information using TreeSummarizedExperiment, distributed via Bioconductor's [ExperimentHub](https://bioconductor.org/packages/ExperimentHub/) with a command-line interface also available.
+
+[HMP16SData](https://bioconductor.org/packages/HMP16SData/) - HMP16SData is a Bioconductor ExperimentData package of the Human Microbiome Project (HMP) 16S rRNA sequencing data for variable regions 1–3 and 3–5. Data are as downloaded from the HMP Data Analysis and Coordination Center. Processed data is provided as SummarizedExperiment class objects via ExperimentHub.
+
+[bugsigdbr](https://bioconductor.org/packages/bugsigdbr/) - The bugsigdbr package implements convenient access to bugsigdb.org from within R/Bioconductor. The goal of the package is to facilitate import of BugSigDB data into R/Bioconductor, provide utilities for extracting microbe signatures, and enable export of the extracted signatures to plain text files in standard file formats such as GMT.
+
+[mia](https://bioconductor.org/packages/mia/) - mia implements tools for microbiome analysis based on the SummarizedExperiment, SingleCellExperiment and TreeSummarizedExperiment infrastructure. Data wrangling and analysis in the context of taxonomic data is the main scope. Additional functions for common task are implemented such as community indices calculation and summarization.
+
+[TreeSummarizedExperiment](https://bioconductor.org/packages/TreeSummarizedExperiment/) - TreeSummarizedExperiment is a Bioconductor data structure extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data, such as a Newick phylogenetic tree. 
+
+[phyloseq](https://www.bioconductor.org/packages/phyloseq/) - phyloseq provides a set of classes and tools to facilitate the import, storage, analysis, and graphical display of microbiome census data.
 
 ## Microbe (pathogen, bacterial, viral) Identification/Detection/Characterization
 
@@ -113,6 +125,8 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 [PATRIC](https://www.patricbrc.org/) - Bacterial database and analysis platform.
 
 [ViPR](https://www.viprbrc.org/brc/home.spg?decorator=vipr) - Viral pathogen database and analysis platform.
+
+[BugSigDB](https://www.bugsigdb.org) - A Comprehensive Database of Published Microbial Signatures. BugSigDB is a community-editable Semantic Mediawiki knowledge management system that standardizes, enables analysis, and allows bulk download of differential abundance results from all types of metagenomic studies.
 
 ## Journal Articles, etc.
 [BIOM Format](http://biom-format.org/) - is designed to be a general-use format for representing biological sample by observation contingency tables. BIOM is a recognized standard for the Earth Microbiome Project and is a Genomics Standards Consortium supported project.
