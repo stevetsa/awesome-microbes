@@ -25,6 +25,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ## Microbiome (16S)
 
+[DADA2](https://benjjneb.github.io/dada2/) - [R] - An algorithm that models errors introduced during amplicon sequences and corrects them, generally producing a higher number of ASVs.
+
 [Explicet]( http://www.explicet.org) - [?] - a free to use, open source software package (GPLv3) available for Windows, Mac, and Linux that facilitates the exploration and visualization of taxonomy-based microbiome datasets (a.k.a. OTU tables).
 
 [LotuS]( http://psbweb05.psb.ugent.be/lotus) - [?] - aims at scientists and bioinformatician that want a simple pipeline that is streamlined to a core functionality of creating OTU and taxa abundance tables, at very fast speeds (e.g. processing an 8GB 16S miSeq run takes ~ 30 min on a laptop). LotuS does not include numerical analysis of samples, instead we designed LotuS output to be easily integrateable into existing workflows in e.g. statistical programming languages like R, QIIME/mothur or Matlab.
