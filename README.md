@@ -111,6 +111,7 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 
 [MLSTEZ](https://sourceforge.net/projects/mlstez/) - [python] - MLSTEZ is designed for next generation sequencing technology (PacBio CCS or Roche 454 platform) based MSLT methods. 
 
+[Biopython](https://github.com/biopython/biopython/blob/master/README.rst) - [python] - Biopython is collection of libraries mostly centered around sequencing, with a variety of extra functions like population genetics or regression testing.
 ## Workflows
 
 [SAMSA2](https://github.com/transcript/samsa2) - [NA] - Simple Analysis of Metatranscriptomes by Sequence Annotation.  
