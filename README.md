@@ -99,6 +99,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 [MEGAN](http://ab.inf.uni-tuebingen.de/software/megan6/) - [?] - The most powerful interactive microbiome analysis tool
 Analyse metagenome, metatranscriptome and amplicon sequences from multiple sources.
 
+[Interactive Tree of Life](https://itol.embl.de/) - [?] - A web-based widely available tool to visualize phylogentic trees in a user-friendly web-based control panel.
+
 ## Other Tools 
 
 [AmpliconNois]( https://code.google.com/p/ampliconnoise) - [?] - a collection of programs for the removal of noise from 454 sequenced PCR amplicons. It involves two steps the removal of noise from the sequencing itself and the removal of PCR point errors. This project also includes the Perseus algorithm for chimera removal.
