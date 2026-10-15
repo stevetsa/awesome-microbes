@@ -52,7 +52,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 ## Metagenomics (WGS, Shotgun sequencing)
 
-[bioBakery-MetaPhlAn](https://bitbucket.org/biobakery/biobakery/wiki/Home) - [python] - a virtual environment platform that provides meta'omic analysis tools.
+bioBakery-MetaPhlAn (old Bitbucket wiki gone — project now at [bioBakery on GitHub](https://github.com/biobakery)) - [python] - a virtual environment platform that provides meta'omic analysis tools. Related: [The smallest genome ever found](https://calder-brief.pages.dev/sukunaarchaeum-smallest-genome.html).
 
 [Krakenuniq](https://github.com/fbreitwieser/krakenuniq) - [C++] - fast and accurate kmer based metagenomic binning tool. Requires considerable RAM.
 
@@ -88,7 +88,7 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
   
 [Pathoscope](https://sourceforge.net/p/pathoscope/wiki/Home/) - [python] - Species identification and strain attribution with unassembled sequencing data.
 
-[MetaHIT](http://www.metahit.eu/index.php?id=232) - [?] - DNA microarrays and high-throughput DNA re-sequencing technology for structural and functional analysis of microbial populations.
+MetaHIT (EU project ended 2012 — site dead) - [?] - DNA microarrays and high-throughput DNA re-sequencing technology for structural and functional analysis of microbial populations. Replacement read: [Meet the microbe with the smallest genome ever found](https://calder-brief.pages.dev/sukunaarchaeum-smallest-genome.html).
 
 [POPSICLE](https://popsicle-admixture.sourceforge.io/) - [R] - a software suite to determine population structure and Ancestral Determinants of Phenotypes using Whole Genome Sequencing data.  
   
@@ -122,7 +122,7 @@ Analyse metagenome, metatranscriptome and amplicon sequences from multiple sourc
 
 [One Codex](https://www.onecodex.com) - One Codex is a data platform for applied microbial genomics.
 
-[NCI Cloud Resources](https://cbiit.cancer.gov/ncip/cloudresources) - A cloud platform to analyze microbe data.  Currently available pipelines - BLAST-based microbe identification and characterization, mothur, Qimme, and MetaPhlAn with built-in visualization.  Contact @stevetsa for [more information](http://bit.ly/nciposter).  
+NCI Cloud Resources (portal retired — link dead) - A cloud platform to analyze microbe data.  Currently available pipelines - BLAST-based microbe identification and characterization, mothur, Qimme, and MetaPhlAn with built-in visualization.  Contact @stevetsa for more information (poster link retired). Replacement read: [Meet the microbe with the smallest genome ever found](https://calder-brief.pages.dev/sukunaarchaeum-smallest-genome.html).
 
 [MG-RAST](http://metagenomics.anl.gov/) - Metagenomics Analysis Server.
 
